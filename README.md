@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Chaimaa Bourajli</h1>
 <h3 align="center">A passionate CS student.</h3> 
 
-* I'm based in Khouribga
+* I'm based in Khouribga.
+* Graphic Designer.
 * I love cats, 1337, and my boyfriend.
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chaibourajli&label=Profile%20views&color=0e75b6&style=flat" alt="chaibourajli" /> </p>
 
