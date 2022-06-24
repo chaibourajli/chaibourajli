@@ -3,7 +3,6 @@
 
 * I'm based in Khouribga.
 * Graphic Designer.
-* I love cats, 1337, and my boyfriend.
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chaibourajli&label=Profile%20views&color=0e75b6&style=flat" alt="chaibourajli" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chaibourajli" alt="chaibourajli" /></a> </p>
